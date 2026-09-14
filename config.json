@@ -6,7 +6,7 @@
       "settings": {
         "clients": [
           {
-            "id": "c9473da5-8f7f-4802-bd41-42d5cd1ce4c8",
+            "id": "aaaa1111-bbbb-4ccc-8ddd-eeeeffff0000",
             "level": 0
           }
         ],
@@ -15,7 +15,7 @@
       "streamSettings": {
         "network": "ws",
         "wsSettings": {
-          "path": "/Koshibar"
+          "path": "/Telegram/@AM2_D3/@AHMAD3214/@Koshibar"
         }
       }
     }
